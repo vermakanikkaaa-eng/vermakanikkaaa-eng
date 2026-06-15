@@ -1,6 +1,6 @@
 # Hi, I'm Kanika Verma 👋
 
- # 🎓 B.Tech CSE Student
+ 🎓 B.Tech CSE Student
 
  💻 Skills
 - HTML
